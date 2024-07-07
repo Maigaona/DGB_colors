@@ -1,0 +1,79 @@
+img {
+    width: 60px;
+    height: 60px;
+}
+
+.table {
+    display: flex;
+    width: 100%;
+    position: absolute; /* Posicionamiento absoluto */
+    background-color: #4CAF5010; /* Color de fondo del div flotante */
+    padding: 20px;
+    color: white;
+    border-radius: 8px;
+    
+  }
+  .logo {
+    display: flex;
+  }
+
+.botonera {
+ 
+ 
+  margin: auto;
+  margin-right: 0;
+  display: flex;
+  gap: 10px;
+  padding-right: 3%;
+  
+  
+}
+
+h3 {
+ font-family: "Nunito";
+ margin-left: 10px;
+}
+
+.botonera > a {
+    font-family: "Manrope";
+    text-decoration: none;
+}
+/*link no visitado*/
+.botonera > a:link {
+  color: blue;
+
+}
+
+/* Link visitado*/
+.botonera > a:visited {
+  color: blue;
+}
+
+/* mouse sobre el link */
+.botonera > a:hover {
+  color: #038FD1;
+}
+section {
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.logo {
+  text-decoration: none
+}
+
+/*link no visitado*/
+.logo:link {
+  color: black;
+
+}
+
+/* Link visitado*/
+.logo:visited {
+  color: black;
+}
+
+/* mouse sobre el link */
+.logo:hover {
+  color: black;
+}
