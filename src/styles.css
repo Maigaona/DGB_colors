@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: Gothic_black;
+    src: url(assets/GothicA1-Black.ttf) format('trueType');
+  }
+  @font-face {
+    font-family: Gothic_Medium;
+    src: url(assets/GothicA1-Medium.ttf) format('trueType');
+  }
+  @font-face {
+    font-family: Albra_light;
+    src: url(assets/FontsFree-Net-AlbraLight.ttf) format('trueType');
+  }

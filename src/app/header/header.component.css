@@ -5,7 +5,7 @@ img {
 
 .table {
     display: flex;
-    width: 100%;
+    top: 0; left: 0; right: 0;
     position: absolute; /* Posicionamiento absoluto */
     background-color: #4CAF5010; /* Color de fondo del div flotante */
     padding: 20px;
@@ -15,7 +15,10 @@ img {
   }
   .logo {
     display: flex;
+    color: black;
+    font-family: "Gothic_black";
   }
+
 
 .botonera {
  
@@ -23,19 +26,22 @@ img {
   margin: auto;
   margin-right: 0;
   display: flex;
-  gap: 10px;
+  gap: 30px;
   padding-right: 3%;
+  
+  color: black;
   
   
 }
 
 h3 {
- font-family: "Nunito";
+ font-family: "Gothic_black";
  margin-left: 10px;
+ font-size: 25pt;
 }
 
 .botonera > a {
-    font-family: "Manrope";
+    font-family: "Gothic_Medium";
     text-decoration: none;
 }
 /*link no visitado*/

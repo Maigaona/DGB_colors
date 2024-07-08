@@ -1,0 +1,26 @@
+img {
+    width: 100%;
+
+}
+
+.imagen {
+    position: relative;
+    width: 100%;
+
+}
+
+h2 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-family: "Albra_light";
+    font-size: 45pt;
+}
+
+#txt {
+    transform: translate(-70%,-180%);
+}
+
+#txt2 {
+    transform: translate(-20%,-50%);   
+}
