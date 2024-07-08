@@ -10,3 +10,8 @@
     font-family: Albra_light;
     src: url(assets/FontsFree-Net-AlbraLight.ttf) format('trueType');
   }
+
+  @font-face {
+    font-family: Gothic_extralight;
+    src: url(assets/GothicA1-ExtraLight.ttf) format('trueType');
+  }
