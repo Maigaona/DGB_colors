@@ -15,3 +15,7 @@
     font-family: Gothic_extralight;
     src: url(assets/GothicA1-ExtraLight.ttf) format('trueType');
   }
+  @font-face {
+    font-family: Gilda_regular;
+    src: url(assets/GildaDisplay-Regular.ttf) format('trueType');
+  }

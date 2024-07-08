@@ -13,14 +13,14 @@ h2 {
     position: absolute;
     top: 50%;
     left: 50%;
-    font-family: "Albra_light";
+    font-family: "Gilda_regular";
     font-size: 45pt;
 }
 
 #txt {
-    transform: translate(-70%,-180%);
+    transform: translate(-60%,-180%);
 }
 
 #txt2 {
-    transform: translate(-20%,-50%);   
+    transform: translate(-20%,-70%);
 }
