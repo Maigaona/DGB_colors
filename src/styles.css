@@ -19,3 +19,11 @@
     font-family: Gilda_regular;
     src: url(assets/GildaDisplay-Regular.ttf) format('trueType');
   }
+  @font-face {
+    font-family: Find_cartoon;
+    src: url(assets/Find_Cartoon.ttf) format('trueType');
+  }
+  @font-face {
+    font-family: Lemon_Days;
+    src: url(assets/LemonDays.ttf) format('trueType');
+  }
