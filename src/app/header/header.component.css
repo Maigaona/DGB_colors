@@ -58,7 +58,7 @@ h3 {
 
 /* mouse sobre el link */
 .botonera > a:hover {
-  color: #038FD1;
+  color: yellow;
 }
 section {
     padding-bottom: 10px;
@@ -82,5 +82,5 @@ section {
 
 /* mouse sobre el link */
 .logo:hover {
-  color: black;
+  color: yellow;
 }
