@@ -8,7 +8,7 @@ img {
     display: flex;
     top: 0; left: 0; right: 0;
     position: absolute; /* Posicionamiento absoluto */
-    background-color: #4CAF5010; /* Color de fondo del div flotante */
+    background-color: #4CAF5000; /* Color de fondo del div flotante */
     padding: 20px;
     color: white;
     border-radius: 8px;
@@ -16,7 +16,7 @@ img {
   }
   .logo {
     display: flex;
-    color: black;
+    color: white;
     font-family: "Gothic_black";
   }
 
@@ -30,13 +30,13 @@ img {
   gap: 30px;
   padding-right: 3%;
   
-  color: black;
+  color: white;
   
   
 }
 
 h3 {
- font-family: "Gothic_black";
+ font-family: "Lemon_Days";
  margin-left: 10px;
  font-size: 26pt;
 }
