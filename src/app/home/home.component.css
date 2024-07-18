@@ -11,7 +11,7 @@ img {
 
 h2 {
     position: absolute;
-    top: 25%;
+    top: 38%;
     left: 8%;
     font-family: "Gothic_Medium";
     font-size: 8pt;
@@ -20,11 +20,36 @@ h2 {
 
 h1 {
     position: absolute;
-    top: 28%;
+    top: 40%;
     left: 5%;
     font-family: "Gothic_Medium";
     font-size: 22pt;
     color: #E8D24E;
+}
+
+h3 {
+    position: absolute;
+    top: 48%;
+    left: 5%;
+    font-family: "Gothic_Medium";
+    font-size: 13pt;
+    color: white;
+}
+
+p {
+    overflow-wrap: normal;
+    width: 40%;
+    position: absolute;
+    top: 52%;
+    left: 5%;
+    font-family: "Gothic_Medium";
+    font-size: 13pt;
+    color: white;
+}
+
+.caja {
+    width: 30px;
+    height: 30px;
 }
 
 #txt {
@@ -34,3 +59,4 @@ h1 {
 #txt2 {
     transform: translate(-20%,-70%);
 }
+
