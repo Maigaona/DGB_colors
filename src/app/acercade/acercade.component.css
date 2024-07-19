@@ -2,3 +2,150 @@
     width: 100%;
    
     }
+  
+  h1 {
+      position: absolute;
+      top: 20%;
+      left: 18%;
+      font-family: "Gothic_Medium";
+      font-size: 22pt;
+      color: #E8D24E;
+  }
+  p {
+   overflow-wrap: normal;
+   width: 48%;
+   position: absolute;
+   top: 28%;
+   left: 5%;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: white;
+}
+.p2 {
+   overflow-wrap: normal;
+   width: 48%;
+   position: absolute;
+   top: 36%;
+   left: 5%;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: white;
+}
+h2 {
+   position: absolute;
+   top: 50%;
+   left: 42%;
+   font-family: "Gothic_Medium";
+   font-size: 20pt;
+   color: #E8D24E;
+}
+
+.persona1 {
+   color: #E8D24E;
+   top: 61.5%;
+   left: 10.5% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
+.persona_1 {
+   
+   top: 63.5%;
+   left: 9.5% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
+
+.yellow-box {
+   background-color: #ffffff; /* Color de fondo amarillo */
+   position: absolute;
+   top: 62%;
+   left: 8%;
+   box-shadow: -1px -1px 6px 0 rgb(122, 221, 102), 4px 4px 16px 0 #d66, 0px 0px 24px 2px rgb(221, 197, 102);
+   padding: 25px; /* Espacio interno */
+   width: 100px; /* Ancho del cuadro */
+}
+.yellow-box2 {
+   background-color: #ffffff; /* Color de fondo amarillo */
+   position: absolute;
+   top: 62%;
+   left: 32%;
+   box-shadow: -1px -1px 6px 0 rgb(122, 221, 102), 4px 4px 16px 0 #d66, 0px 0px 24px 2px rgb(221, 197, 102);
+   padding: 25px; /* Espacio interno */
+   width: 100px; /* Ancho del cuadro */
+}
+.persona2 {
+   color: #E8D24E;
+   top: 61.5%;
+   left: 33.5% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
+.persona_2 {
+   
+   top: 63.5%;
+   left: 33.3% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
+.yellow-box3 {
+   background-color: #ffffff; /* Color de fondo amarillo */
+   position: absolute;
+   top: 62%;
+   left: 57%;
+   box-shadow: -1px -1px 6px 0 rgb(122, 221, 102), 4px 4px 16px 0 #d66, 0px 0px 24px 2px rgb(221, 197, 102);
+   padding: 25px; /* Espacio interno */
+   width: 100px; /* Ancho del cuadro */
+}
+.persona3 {
+   color: #E8D24E;
+   top: 61.5%;
+   left: 59.3% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
+.persona_3 {
+   
+   top: 63.5%;
+   left: 59.3% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
+.yellow-box4 {
+   background-color: #ffffff; /* Color de fondo amarillo */
+   position: absolute;
+   top: 62%;
+   left: 82%;
+   box-shadow: -1px -1px 6px 0 rgb(122, 221, 102), 4px 4px 16px 0 #d66, 0px 0px 24px 2px rgb(221, 197, 102);
+   padding: 25px; /* Espacio interno */
+   width: 100px; /* Ancho del cuadro */
+}
+.persona4 {
+   color: #E8D24E;
+   top: 61.5%;
+   left: 84.3% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
+.persona_4 {
+   
+   top: 63.5%;
+   left: 85% ;
+   font-family: "Gothic_Medium";
+   font-size: 10pt;
+   color: black;
+}
+
